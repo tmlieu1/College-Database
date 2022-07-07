@@ -1,0 +1,116 @@
+CourseID,DepartmentID,CourseName,Credits
+42-236-1528,37-756-2067,STAT 151 - Introduction to Applied Statistics,4
+13-965-5544,37-756-2067,STAT 161 - Applied Statistics for the Social Sciences,2
+59-406-3159,37-756-2067,STAT 252 - Applied Statistics II,5
+61-389-7988,37-756-2067,STAT 265 - Probability Theory I,2
+39-506-0825,37-756-2067,STAT 266 - Mathematical Statistics,1
+24-042-6834,37-756-2067,STAT 312 - Probability Theory II,1
+53-829-0410,37-756-2067,STAT 350 - Sampling Theory and Applications,2
+32-220-5025,37-756-2067,STAT 353 - Applied Time Series Analysis,3
+85-074-9043,37-756-2067,STAT 412 - Stochastic Processes,2
+90-088-9727,37-756-2067,STAT 465 - Probability Theory and Mathematic Statistics II,3
+26-425-7013,57-938-3487,BIOL 101 - Current Issues in Human Biology,3
+02-159-8368,57-938-3487,BIOL 107 - Introduction to Cell Biology,3
+38-893-1964,57-938-3487,BIOL 108 - Organisms in Their Environment,3
+09-316-1892,57-938-3487,BIOL 201 - Eukaryotic Cellular Biology I,1
+37-532-7459,57-938-3487,BIOL 205 - Principles of Molecular Biology,5
+74-693-2518,57-938-3487,BIOL 207 - Principles of Genetics,2
+11-966-5549,57-938-3487,BIOL 208 - Principles of Ecology,1
+99-140-5072,57-938-3487,BIOL 300 - Eukaryotic Cellular Biology II,5
+54-879-9786,57-938-3487,BIOL 310 - Freshwater Ecology,5
+40-675-3812,57-938-3487,BIOL 312 - Terrestrial Ecology,1
+45-343-1567,57-938-3487,BIOL 410 - Techniques in Field Ecology,3
+11-288-7437,57-938-3487,BIOL 414 - Invasion Ecology and Management,2
+79-938-6684,57-938-3487,CHEM 101 - Introductory University Chemistry I,5
+07-471-3389,57-938-3487,CHEM 102 - Introductory University Chemistry II,2
+86-980-7996,57-938-3487,CHEM 211 - Applied Analytical Chemistry,4
+92-388-9059,57-938-3487,CHEM 232 - Inorganic Chemistry,1
+54-282-2123,57-938-3487,CHEM 242 - Fundamental of Physical Chemistry,1
+08-180-4962,57-938-3487,CHEM 311 - Advanced Chemical Analysis,1
+43-236-8905,57-938-3487,CHEM 342 - Materials Chemistry,2
+42-401-3147,57-938-3487,CHEM 410 - Industrial Chemistry,4
+13-563-0177,57-938-3487,CHEM 441 - Molecular Modelling,3
+17-635-6015,86-669-4756,CMPT 101 - Introduction to Computing I,5
+72-223-2425,86-669-4756,CMPT 103 - Introduction to Computing II,2
+14-473-0455,86-669-4756,CMPT 200 - Data Structures and Algorithms,2
+64-796-9991,86-669-4756,CMPT 201 - Practical Programming Methodology,3
+67-764-2369,86-669-4756,CMPT 291 - Introduction to File and Database Management,3
+64-665-2914,86-669-4756,CMPT 305 - Introduction to Object-Oriented Programming,2
+92-106-8125,86-669-4756,CMPT 391 - Database Management Systems,3
+50-577-2906,86-669-4756,CMPT 395 - Introduction to Software Engineering,4
+53-224-3468,86-669-4756,CMPT 464 - Wireless Networks and Embedded Systems,1
+57-380-7925,86-669-4756,CMPT 496 - Final Project,5
+92-332-1063,37-756-2067,MATH 114 - Elementary Calculus I,5
+01-716-8314,37-756-2067,MATH 115 - Elementary Calculus II,4
+86-315-2180,37-756-2067,MATH 120 - Basic Linear Algebra I,4
+83-292-9926,37-756-2067,MATH 200 - Fundamental Concepts of Math,1
+84-036-4993,37-756-2067,MATH 214 - Intermediate Calculus I,1
+77-068-4661,37-756-2067,MATH 215 - Intermediate Calculus II,5
+25-749-1812,37-756-2067,MATH 225 - Linear Algebra II,2
+33-348-3938,37-756-2067,MATH 320 - Elementary Number Theory,5
+72-107-0126,37-756-2067,MATH 350 - Introduction to Graph Theory,5
+56-853-3644,04-435-9616,PSYC 104 - Introductory Psychology I,3
+77-002-0604,04-435-9616,PSYC 105 - Introductory Psychology II,3
+59-872-8755,04-435-9616,PSYC 212 - Introduction to Research Methods in Psychology,4
+76-528-8322,04-435-9616,PSYC 223 - Developmental Psychology,5
+64-713-7123,04-435-9616,PSYC 233 - Personality,3
+71-250-2342,04-435-9616,PSYC 267 - Perception,5
+66-358-5925,04-435-9616,PSYC 301 - History of Psychology,3
+43-707-4789,04-435-9616,PSYC 306 - Sports Psychology,1
+53-021-6436,04-435-9616,PSYC 423 - Topics in Development,4
+27-455-8935,57-938-3487,PHYS 124 - Physics for Life Sciences I,2
+13-287-4102,57-938-3487,PHYS 126 - Physics for Life Sciences II,2
+69-087-8957,57-938-3487,PHYS 208 - Quantum Aspects of Physics,2
+60-230-1281,57-938-3487,PHYS 224 - Fluids and Heat,1
+33-225-0182,57-938-3487,PHYS 226 - Optics and Sound Waves,1
+01-922-9106,57-938-3487,PHYS 301 - Nuclear Physics,5
+85-533-5161,57-938-3487,PHYS 302 - An Introduction to Semiconductors and Superconductors,1
+06-672-9198,57-938-3487,PHYS 332 - Computational Physics,4
+04-217-1195,76-433-51,ANTH 101 - Introduction to Anthropology,1
+14-124-0569,76-433-51,ANTH 108 - Elements of Human Linguistics,4
+93-303-6014,76-433-51,"ANTH 110 - Gender, Age and Culture",2
+79-182-8031,76-433-51,ANTH 150 - Race and Racism in Modern World,2
+56-451-3357,76-433-51,ANTH 206 - Introduction to Archaeology,1
+62-111-2272,76-433-51,ANTH 207 - Introduction to Social and Cultural Anthropology,3
+56-086-2848,76-433-51,ANTH 208 - Introduction to Linguistic Anthropology,4
+39-945-4281,76-433-51,ANTH 209 - Biological Anthropology,4
+89-219-5041,76-433-51,ANTH 219 - World Prehistory,4
+24-827-9155,76-433-51,ANTH 245 - Ethnography of Mediterranean Peoples,1
+50-435-2633,76-433-51,ANTH 246 - Circumpolar Peoples,3
+44-068-4581,76-433-51,ANTH 250 - Introduction to Canadian Indigenous Peoples,2
+50-141-0139,76-433-51,ANTH 261 - Peoples and Cultures of Mesoamerica,2
+77-798-1213,76-433-51,ANTH 262 - Peoples and Cultures of South America,5
+26-511-6819,76-433-51,ANTH 305 - Human Variation and Adaptation,2
+40-838-3148,76-433-51,"ANTH 308 - Language, Gender, and Sexuality",2
+97-278-4562,76-433-51,ANTH 318 - Political Anthropology,5
+80-972-2053,76-433-51,"ANTH 410 - Humans, Climate and Culture",4
+67-112-8538,76-433-51,ANTH 411 - Environmental Archaeology,1
+30-959-5453,76-433-51,ECON 101 - Introduction to Microeconomics,5
+28-574-7155,37-756-2067,ECON 102 - Introduction to Macroeconomics,2
+52-174-3730,37-756-2067,ECON 212 - Economic Aspects of the European Union,4
+34-623-4765,37-756-2067,ECON 213 - Introduction to Economics of Developing Countries,5
+39-762-9492,37-756-2067,ECON 281 - Intermediate Microeconomics,3
+89-111-5011,37-756-2067,ECON 282 - Intermediate Macroeconomics,5
+46-583-3925,37-756-2067,ECON 299 - Quantitative Methods in Economics,2
+94-805-9669,37-756-2067,ECON 319 - Contemporary Canadian Economic Issues,1
+38-479-7052,37-756-2067,ECON 323 - International Economics,1
+50-461-1805,37-756-2067,ECON 335 - Urban Economics,4
+77-519-3391,37-756-2067,ECON 341 - Money and Banking,1
+37-694-0011,37-756-2067,ECON 401 - Field Placement,2
+19-693-5804,37-756-2067,ECON 421 - International Trade,5
+84-000-3713,66-558-344631,SOCI 100 - Introductory Sociology,4
+09-857-0721,66-558-344631,SOCI 201 - Canadian Society,3
+68-740-5334,66-558-344631,SOCI 224 - Deviance and Conformity,3
+70-177-4085,66-558-344631,SOCI 271 - Introduction to the Family,5
+27-593-3346,66-558-344631,POLS 101 - Introduction to Politics,5
+42-359-5777,66-558-344631,POLS 200 - Comparative Political Systems,4
+75-295-6815,66-558-344631,POLS 214 - History of Political Thought I,4
+79-070-5988,66-558-344631,POLS 215 - History of Political Thought II,4
+49-129-9848,66-558-344631,POLS 224 - Canadian National Government I,5
+85-715-1420,66-558-344631,POLS 225 - Canadian National Government II,4
+77-560-7218,49-204-5694,PHIL 100 - Introduction to Philosophy: The Examined Life,4
+70-407-1126,49-204-5694,PHIL 103 - Asian Philosophies,5
+13-197-6256,49-204-5694,PHIL 125 - Analytical Reasoning,1
+12-867-9782,91-848-4231,HIST 100 - Introduction to History,5
+14-412-9813,91-848-4231,HIST 101 - Foundations of the Modern World before c.1500 C.E.,5
+94-624-8227,91-848-4231,HIST 102 - Foundations of the Modern World from 1500 C.E. to the Present,5

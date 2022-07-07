@@ -1,0 +1,1 @@
+insert into Students(StudentID, StudentName, gender, Major, Minor, Username, Password) values ('00-0000001', 'Roost McBoost', 'M', 'Computer Science', 'Mathematics', 'mcboostR', 'f5e75a5167f358a622fab50e57952d619a0bc16e4674fba8c3e4a0dc39bc6b23');
